@@ -1,28 +1,41 @@
-<h1 align="center">Hi, I'm Krisnaa</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=8bit&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello%2C+it's+Mang+Krisna;+Newbie+Developer!;" />
+</h1>
 
 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<br><br><br>
 
- 
-  ![Static Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/html%205-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff) 
-  ![Static Badge](https://img.shields.io/badge/css%203-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff) 
-  ![Static Badge](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B) 
-  ![Static Badge](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=ffffff) 
-  ![Static Badge](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=ffffff) 
-  ![Static Badge](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=ffffff) 
-  ![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff) 
-  ![Static Badge](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=0ACF83)
 
+
+<h1 align="left"> <img src="https://github.com/user-attachments/assets/b8b46085-c522-4c6d-a518-753d3245e51c" width="40" /> I'm currently learning</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,python,laravel,mysql,git,github,vscode,figma)](https://skillicons.dev)
+<br><br><br>
+
+
+
+<h1 align="left"> <img src="https://github.com/user-attachments/assets/d2c4f017-741d-4215-9421-b7f6455e2e40" width="40" /> Statistic </h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Krisnaaxz&label=Profile%20views&color=0e75b6&style=flat" alt="Krisnaaxz" /></p>
+<table>
+ <tr>
+    <th valign="center" >  
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnaaxz&layout=compact&theme=dracula" />
+    </th>
+    <th valign="center">
+       <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krisnaaxz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>    
+    </th>
+  </tr>
+</table>
 
 ![snake gif](https://github.com/Krisnaaxz/Krisnaaxz/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
+<br>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krisnaaxz&layout=compact&theme=dracula" />
-  <!-- //profile view  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Krisnaaxz&label=Profile%20views&color=0e75b6&style=flat" alt="Krisnaaxz" /> </p> -->
-</div>
+## Connect with me
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](http://www.linkedin.com/in/mangkriisnaa)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/mangkriisnaa/)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:krisnajayanova66@gmail.com)
+
