@@ -30,8 +30,12 @@
   </tr>
 </table>
 
+<h4 align="left">Last year commit:</h4>
+
 ![snake gif](https://github.com/Krisnaaxz/Krisnaaxz/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
+
 <br>
 
 ## Connect with me
