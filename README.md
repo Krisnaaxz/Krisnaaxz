@@ -12,7 +12,7 @@
 
 <h1 align="left"> <img src="https://github.com/user-attachments/assets/b8b46085-c522-4c6d-a518-753d3245e51c" width="40" /> Currently learn</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,java,python,laravel,mysql,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,python,laravel,mysql,git,github,vscode,figma)](https://skillicons.dev)
 <br><br><br>
 
 
